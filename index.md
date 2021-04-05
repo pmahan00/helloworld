@@ -10,23 +10,28 @@ Engineer turned entrepreneur having a business and technological toolbox,who bel
 
 ## **Projects** 
 
-### **EquiEye** 
+### **Computer-Vision/ML**
+
+#### **EquiEye** 
 
 Building an video analysis application for equesterians. Using 2D markerless pose estimation computer vision. The application detects the horse joints and tracks its movement. Using poses and keypoints as input one can get vital statistics such as velocity, stride length and leap curve while jumping. A demo of the application can be found [here](https://www.youtube.com/watch?v=CmkUQL8IEMc) and [here](https://www.youtube.com/watch?v=oZSEOToxyxw)
 
-### **Payzee** 
+#### **Posefit** 
+
+Build an fitness based prototype for home fitness based on computervision pose estimation. The user uploads a video of him/herslef doing an exercise. The computer vision algorithm then parses out the poses where the user does the exercises correctly and where it does it in an incorrect manner. This way the user knows if the execution of the exercises is done in a correct way thus avoiding injuries and can follow his/her training goals in a data driven way.  A demo can be found [here](https://youtu.be/RZ0fWINGq0c)
+
+### **Fintech/Blockchain**
+
+#### **Payzee** 
 
 Lead the development for a zero fee micro-transaction payment solution based on IOTA blockchain. Payzee aimed at the micro-mobility domain specially targeting peer to peer ride sharing market. The application was developed on IOTA protocol and connected to the crypto wallet and transactions were carried out with IOTA tokens. A demo of live transaction can be found [here](https://www.youtube.com/watch?v=daJWRMCCjts) 
 
-
-
-### **Posefit** 
-
-Build an fitness based prototype for home fitness based on computervision pose estimation. The user uploads a video of him/herslef doing an exercise. The computer vision algorithm then parses out the poses where the user does the exercises correctly and where it does it in an incorrect manner. This way the user knows if the execution of the exercises is done in a correct way thus avoiding injuries and can follow his/her training goals in a data driven way.  A demo can be found [here](https://youtu.be/RZ0fWINGq0c)
+### **Audio/ML**
 
 ### **Genrify**
 
 Build a prototype that uses transfer learning on a pre-trained neural network to classify audio input into different genre (Rock, Dance, Techno, Jazz) and annotate it with the genre name. The classification parameters are defined as the final layer of the neural network . Audio samples are converted into images and FFT algorithm is applied to extract unique audio features.  For now it seems to detect the techno genre. A demo of Genrify in action can be seen [here](https://youtu.be/A9q8uMGCyv8)
+
 
 
 # **Music** 
