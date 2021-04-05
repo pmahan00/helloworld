@@ -28,7 +28,7 @@ Lead the development for a zero fee micro-transaction payment solution based on 
 
 ### **Audio/ML**
 
-### **Genrify**
+#### **Genrify**
 
 Build a prototype that uses transfer learning on a pre-trained neural network to classify audio input into different genre (Rock, Dance, Techno, Jazz) and annotate it with the genre name. The classification parameters are defined as the final layer of the neural network . Audio samples are converted into images and FFT algorithm is applied to extract unique audio features.  For now it seems to detect the techno genre. A demo of Genrify in action can be seen [here](https://youtu.be/A9q8uMGCyv8)
 
