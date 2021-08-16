@@ -18,16 +18,17 @@ Engineer/Entrepreneur. I experiment, build , learn and iterate my assumptions. I
  - Helping riders, coaches and amateur athletes to reach their goal in a data driven way . 
  - Released beta version to around 150 pilot users. 
  - [Product Demo ](https://youtu.be/Aiu4LuMbUPc)
+ 
 ## Fintech/Blockchain/Payment Solutions 
 **Payzee**
  - Developed a zero fee micro-payment solution for the micro-mobility domain 
  - Built a payment for microtransactions based on IOTA distributed ledger technologies 
  - Released the beta version to around 30 users . 
  - [Product Demo ](https://youtu.be/daJWRMCCjts)
+ 
 ## Audio/NLP 
  - Built a real time audio classification application to run on browser 
- - The machine learning model classifies genres of music such as pop , techno and rock . 
-
+ - The machine learning model classifies genres of music such as pop , techno and rock .
 # Music
 
 Playing the guitar and  aking new sounds with open source live music DAWs such as Sonic-PI , Supercollider 
