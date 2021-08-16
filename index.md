@@ -6,31 +6,34 @@ permalink: /
 
 # **Hello World** 
 
-Engineer turned entrepreneur having a business and technological toolbox,who believes in a hands on approach in solving diverse problems. Here you will find links to my various projects and creative outlets. Currently exploring computervision(pose estimation) and music tehcnologies(MIR, sentiment analysis)
+Engineer/Entrepreneur. I experiment, build , learn and iterate my assumptions. I have deep interest in computer vision and music tech. I believe in rapid prototyping and below are some of my protoype products 
 
-## **Projects** 
+## PROJECTS
 
-### **Computer-Vision/ML**
+## Computer Vision 
+**Posefit**
+ - Built the computer vision stack for human pose estimation to run on tablets, phones and laptops.
+ - PoseFit is AI based SAAS product that provides real time feedback and data for a smarter, better and faster recovery process. 
+ - [Product Demo](https://www.youtube.com/watch?v=NESL6rhN8Vg)
 
-#### **EquiEye** 
+**Equi Eye**
+ - Built the computer vision stack for rider position analysis for equestrian sports 
+ - Built the data pipeline for data extraction and analysis for riders to improve their training strategy 
+ - Helping riders, coaches and amateur athletes to reach their goal in a data driven way . 
+ - Released beta version to around 150 pilot users. 
+ - [Product Demo ](https://youtu.be/Aiu4LuMbUPc)
 
-Building an video analysis application for equesterians. Using 2D markerless pose estimation computer vision. The application detects the horse joints and tracks its movement. Using poses and keypoints as input one can get vital statistics such as velocity, stride length and leap curve while jumping. A demo of the application can be found [here](https://www.youtube.com/watch?v=CmkUQL8IEMc) and [here](https://www.youtube.com/watch?v=oZSEOToxyxw)
+## Fintech/Blockchain/Payment Solutions 
 
-#### **Posefit** 
+ - Developed a zero fee micro-payment solution for the micro-mobility domain 
+ - Built a payment for microtransactions based on IOTA distributed ledger technologies 
+ - Released the beta version to around 30 users . 
+ - [Product Demo ](https://youtu.be/daJWRMCCjts)
 
-Build an fitness based prototype for home fitness based on computervision pose estimation. The user uploads a video of him/herslef doing an exercise. The computer vision algorithm then parses out the poses where the user does the exercises correctly and where it does it in an incorrect manner. This way the user knows if the execution of the exercises is done in a correct way thus avoiding injuries and can follow his/her training goals in a data driven way.  A demo can be found [here](https://youtu.be/NESL6rhN8Vg)
+## Audio/NLP 
 
-### **Fintech/Blockchain/Payment**
-
-#### **Payzee(CartoCar/Micromobility payment)** 
-
-Lead the development for a zero fee micro-transaction payment solution based on IOTA blockchain. Payzee aimed at the micro-mobility/car to car commerce domain specially targeting peer to peer ride sharing market. The application was developed on IOTA protocol and connected to the crypto wallet and transactions were carried out with IOTA tokens. A demo of live transaction can be found [here](https://www.youtube.com/watch?v=daJWRMCCjts) 
-
-### **Audio/ML**
-
-#### **Genrify**
-
-Build a prototype that uses transfer learning on a pre-trained neural network to classify audio input into different genre (Rock, Dance, Techno, Jazz) and annotate it with the genre name. The classification parameters are defined as the final layer of the neural network . Audio samples are converted into images and FFT algorithm is applied to extract unique audio features.  For now it seems to detect the techno genre. A demo of Genrify in action can be seen [here](https://youtu.be/A9q8uMGCyv8)
+ - Built a real time audio classification application to run on browser 
+ - The machine learning model classifies genres of music such as pop , techno and rock . 
 
 
 
