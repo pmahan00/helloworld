@@ -8,7 +8,7 @@ Engineer turned entrepreneur having a business and technological toolbox,who bel
 
 ## PROJECTS
 ## Generative AI 
-** Berlin News Summarizer in English**
+**Berlin News Summarizer in English**
 - A news summarization tool focusing on Berlin. The summarizer is very handy tool to know what is happening in the city politics , sports , culture and specially about strikes happening now and then.
 - .Covers key areas like politics, sports, culture.
 -  Checks for latest three RSS feeds on the given day for different topics such as politics, sports, culture.
