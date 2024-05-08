@@ -6,7 +6,7 @@ permalink: /
 
 # **Hello World** 
 
-Engineer turned entrepreneur having a business and technological toolbox,who believes in a hands on approach in solving diverse problems. Here you will find links to my various projects and creative outlets. Currently exploring computervision(pose estimation) and music tehcnologies(MIR, sentiment analysis)
+Engineer turned entrepreneur having a business and technological toolbox,who believes in a hands on approach in solving diverse problems. Here you will find links to my various projects and creative outlets. Currently exploring computervision, Generative projects and musictech projects
 
 ## **Projects** 
 
