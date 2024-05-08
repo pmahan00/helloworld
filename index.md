@@ -4,9 +4,18 @@ title: "Pradyumna Mahanta Homepage"
 permalink: /
 ---
 # Hello World 
-Engineer/Entrepreneur. I experiment, build , learn and iterate my assumptions. I have deep interest in computer vision and music tech. I believe in rapid prototyping and below are some of my prototype products
+Engineer turned entrepreneur having a business and technological toolbox,who believes in a hands on approach in solving diverse problems. Here you will find links to my various projects and creative outlets. Currently exploring computervision, Generative projects and musictech projects.
 
 ## PROJECTS
+## Generative AI 
+** Berlin News Summarizer in English**
+- A news summarization tool focusing on Berlin. The summarizer is very handy tool to know what is happening in the city politics , sports , culture and specially about strikes happening now and then.
+- .Covers key areas like politics, sports, culture.
+-  Checks for latest three RSS feeds on the given day for different topics such as politics, sports, culture.
+-  Download the article text and title using the newspaper3k module
+-   Chunking the text in order to feed into the LLM includes Q& A functionality. Made by using opensource LLM - Mistral, Ollama framework
+-   [Demo](https://www.youtube.com/watch?v=qE8xH1tLSwM&t=8s)
+
 
 ## Computer Vision 
 **Posefit**
@@ -29,6 +38,14 @@ Engineer/Entrepreneur. I experiment, build , learn and iterate my assumptions. I
  - [Product Demo ](https://youtu.be/daJWRMCCjts)
  
 ## Audio/NLP 
+** Harmonify ** 
+- Experimenting with fusing music and data using the Spotify API to unravel the essence of songs.
+- Extracting audio features such as tempo, key, and danceability,a unique feature vector is created.
+- Through vector similarity, the idea is to pinpoint 50 songs similar to the users reference song and create a tailored Spotify playlist.
+- Offers a novel way of exploring music but also serves as a data-driven learning tool for music production beginners.
+- [Prototype](https://www.linkedin.com/posts/pradyumna-mahanta-0ba09815_opensource-software-spotify-activity-7056514678167883776-8njs?utm_source=share&utm_medium=member_desktop)
+  
+**Classifier Local**
  - Built a real time audio classification application to run on browser 
  - The machine learning model classifies genres of music such as pop , techno and rock . 
 
