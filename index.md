@@ -4,7 +4,7 @@ title: "Pradyumna Mahanta Homepage"
 permalink: /
 ---
 # Hello World 
-Engineer turned entrepreneur having a business and technological toolbox,who believes in a hands on approach in solving diverse problems. Here you will find links to my various projects and creative outlets. Currently exploring computervision, Generative projects and musictech projects.
+Engineer turned entrepreneur having a business and technological toolbox,who believes in a hands on approach in solving diverse problems. Here you will find links to my various projects and creative outlets. Currently exploring Computervision, Generative AI projects and Musictech projects.
 
 ## PROJECTS
 ## Generative AI 
