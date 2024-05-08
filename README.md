@@ -10,7 +10,7 @@ Engineer turned entrepreneur having a business and technological toolbox,who bel
 
 ## **Projects** 
 
-### **Harmonify ** 
+### **Harmonify** 
 Experimenting with fusing music and data using the Spotify API to unravel the essence of songs. By extracting audio features such as tempo, key, and danceability,a unique feature vector is created. Through vector similarity, the idea is to pinpoint 50 songs similar to the users reference song and create a tailored Spotify playlist. This waynot only offers a novel way of exploring music but also serves as a data-driven learning tool for music production beginners.
 
 ### **EquiEye** 
