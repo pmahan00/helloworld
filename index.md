@@ -8,6 +8,12 @@ Engineer turned entrepreneur having a business and technological toolbox,who bel
 
 ## PROJECTS
 ## Generative AI 
+**ETF helper**
+- Using reddits r/Finanzen subreddit to provide user the top trends, questions and discusssions happening in weekly basis .
+- The Summarization is done using a Large Language Model . Points considered is to provide sentiment, user feedback and list out important points of discussion in English.
+- The idea of the project is to make investing accesible also to non native German speakers
+  
+
 **Berlin News Summarizer in English**
 - A news summarization tool focusing on Berlin. The summarizer is very handy tool to know what is happening in the city politics , sports , culture and specially about strikes happening now and then.
 - .Covers key areas like politics, sports, culture.
