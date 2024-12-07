@@ -8,7 +8,7 @@ Engineer turned entrepreneur having a business and technological toolbox,who bel
 
 ## PROJECTS
 ## Generative AI 
-** Alfred your HR Agent ** 
+**Alfred your HR Agent** 
 - Experimented with Large Language Models (LLMs) to automate repetitive and error-prone HR tasks, enhancing efficiency and accuracy.
 - Answering FAQs:
  Developed a lightweight RAG application sourcing information from Notion, Confluence, and Jira.
@@ -23,7 +23,7 @@ Engineer turned entrepreneur having a business and technological toolbox,who bel
   Increased efficiency and error reduction.
   Consistent and scalable processes.
   Personalized communications.
-  [Demo](https://youtube.com/shorts/ZesDc_Fj5Zo)
+ - [Demo](https://youtube.com/shorts/ZesDc_Fj5Zo)
 
 **ETF helper**
 - Using reddits r/Finanzen subreddit to provide user the top trends, questions and discusssions happening in weekly basis .
